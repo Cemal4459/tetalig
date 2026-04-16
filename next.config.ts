@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 
-const repoName = "teta-league";
+const repoName = "tetalig";
 
 const nextConfig: NextConfig = {
   output: "export",
