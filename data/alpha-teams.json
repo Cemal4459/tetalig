@@ -1,0 +1,14 @@
+[
+  { "name": "Verder Veremem", "captain": "Belirlenecek", "played": 5, "points": 15, "logoText": "VV" },
+  { "name": "Abrakadabra", "captain": "Belirlenecek", "played": 5, "points": 13, "logoText": "AB" },
+  { "name": "Napoliten FC", "captain": "Belirlenecek", "played": 3, "points": 9, "logoText": "NF" },
+  { "name": "Uzmanlar", "captain": "Belirlenecek", "played": 5, "points": 9, "logoText": "UZ" },
+  { "name": "Zagor", "captain": "Belirlenecek", "played": 5, "points": 9, "logoText": "ZG" },
+  { "name": "Semt-i Müdafa", "captain": "Belirlenecek", "played": 4, "points": 7, "logoText": "SM" },
+  { "name": "Pocispor", "captain": "Belirlenecek", "played": 5, "points": 6, "logoText": "PO" },
+  { "name": "Gegi Esport", "captain": "Belirlenecek", "played": 5, "points": 6, "logoText": "GE" },
+  { "name": "Yalova", "captain": "Belirlenecek", "played": 3, "points": 3, "logoText": "YA" },
+  { "name": "Kitkat", "captain": "Belirlenecek", "played": 4, "points": 0, "logoText": "KI" },
+  { "name": "Vakvakiye SK", "captain": "Belirlenecek", "played": 0, "points": 0, "logoText": "VS" },
+  { "name": "Rulen", "captain": "Belirlenecek", "played": 6, "points": 0, "logoText": "RU" }
+]

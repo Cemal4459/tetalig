@@ -1,0 +1,550 @@
+[
+  {
+    "week": 1,
+    "home": "Abrakadabra ESP",
+    "away": "Uzmanlar Espor",
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": "played"
+  },
+  {
+    "week": 1,
+    "home": "Pocispor FC",
+    "away": "Vakvakiye SK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "22 Nisan Çarşamba 23:30"
+  },
+  {
+    "week": 1,
+    "home": "Yalova FK",
+    "away": "Napoliten FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "29 Nisan Çarşamba 23:30"
+  },
+  {
+    "week": 1,
+    "home": "Verder Veremem",
+    "away": "Gegi Esport",
+    "homeScore": 5,
+    "awayScore": 0,
+    "status": "played"
+  },
+  {
+    "week": 1,
+    "home": "Kitkat FC",
+    "away": "Zagor FC",
+    "homeScore": 0,
+    "awayScore": 6,
+    "status": "played"
+  },
+  {
+    "week": 1,
+    "home": "Napoliten FC",
+    "away": "Semt-i Müdafa",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "15 Nisan Çarşamba 23:30"
+  },
+
+  {
+    "week": 2,
+    "home": "Abrakadabra ESP",
+    "away": "Vakvakiye SK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "22 Nisan Çarşamba 00:00"
+  },
+  {
+    "week": 2,
+    "home": "Uzmanlar Espor",
+    "away": "Rulen FC",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "played"
+  },
+  {
+    "week": 2,
+    "home": "Pocispor FC",
+    "away": "Gegi Esport",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "played"
+  },
+  {
+    "week": 2,
+    "home": "Yalova FK",
+    "away": "Zagor FC",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "played"
+  },
+  {
+    "week": 2,
+    "home": "Verder Veremem",
+    "away": "Semt-i Müdafa",
+    "homeScore": 5,
+    "awayScore": 3,
+    "status": "played"
+  },
+  {
+    "week": 2,
+    "home": "Napoliten FC",
+    "away": "Kitkat FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "22 Nisan Çarşamba 23:30"
+  },
+
+  {
+    "week": 3,
+    "home": "Abrakadabra ESP",
+    "away": "Rulen FC",
+    "homeScore": 5,
+    "awayScore": 0,
+    "status": "played"
+  },
+  {
+    "week": 3,
+    "home": "Vakvakiye SK",
+    "away": "Gegi Esport",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "22 Nisan Çarşamba 21:30"
+  },
+  {
+    "week": 3,
+    "home": "Uzmanlar Espor",
+    "away": "Zagor FC",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "played"
+  },
+  {
+    "week": 3,
+    "home": "Pocispor FC",
+    "away": "Semt-i Müdafa",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "played"
+  },
+  {
+    "week": 3,
+    "home": "Yalova FK",
+    "away": "Napoliten FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "29 Nisan Çarşamba 23:30"
+  },
+  {
+    "week": 3,
+    "home": "Verder Veremem",
+    "away": "Kitkat FC",
+    "homeScore": 6,
+    "awayScore": 3,
+    "status": "played"
+  },
+
+  {
+    "week": 4,
+    "home": "Abrakadabra ESP",
+    "away": "Gegi Esport",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "played"
+  },
+  {
+    "week": 4,
+    "home": "Rulen FC",
+    "away": "Zagor FC",
+    "homeScore": 2,
+    "awayScore": 9,
+    "status": "played"
+  },
+  {
+    "week": 4,
+    "home": "Vakvakiye SK",
+    "away": "Semt-i Müdafa",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "29 Nisan Çarşamba 23:30"
+  },
+  {
+    "week": 4,
+    "home": "Uzmanlar Espor",
+    "away": "Napoliten FC",
+    "homeScore": 0,
+    "awayScore": 8,
+    "status": "played"
+  },
+  {
+    "week": 4,
+    "home": "Pocispor FC",
+    "away": "Kitkat FC",
+    "homeScore": 7,
+    "awayScore": 3,
+    "status": "played"
+  },
+  {
+    "week": 4,
+    "home": "Yalova FK",
+    "away": "Verder Veremem",
+    "homeScore": 0,
+    "awayScore": 5,
+    "status": "played"
+  },
+
+  {
+    "week": 5,
+    "home": "Abrakadabra ESP",
+    "away": "Zagor FC",
+    "homeScore": 12,
+    "awayScore": 0,
+    "status": "played"
+  },
+  {
+    "week": 5,
+    "home": "Gegi Esport",
+    "away": "Semt-i Müdafa",
+    "homeScore": 0,
+    "awayScore": 4,
+    "status": "played"
+  },
+  {
+    "week": 5,
+    "home": "Rulen FC",
+    "away": "Napoliten FC",
+    "homeScore": 0,
+    "awayScore": 9,
+    "status": "played"
+  },
+  {
+    "week": 5,
+    "home": "Vakvakiye SK",
+    "away": "Kitkat FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "29 Nisan Çarşamba 21:30"
+  },
+  {
+    "week": 5,
+    "home": "Uzmanlar Espor",
+    "away": "Verder Veremem",
+    "homeScore": 0,
+    "awayScore": 4,
+    "status": "played"
+  },
+  {
+    "week": 5,
+    "home": "Pocispor FC",
+    "away": "Yalova FK",
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": "played"
+  },
+
+  {
+    "week": 6,
+    "home": "Abrakadabra ESP",
+    "away": "Semt-i Müdafa",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "played"
+  },
+  {
+    "week": 6,
+    "home": "Zagor FC",
+    "away": "Napoliten FC",
+    "homeScore": 1,
+    "awayScore": 4,
+    "status": "played"
+  },
+  {
+    "week": 6,
+    "home": "Gegi Esport",
+    "away": "Kitkat FC",
+    "homeScore": 9,
+    "awayScore": 1,
+    "status": "played"
+  },
+  {
+    "week": 6,
+    "home": "Rulen FC",
+    "away": "Verder Veremem",
+    "homeScore": 0,
+    "awayScore": 14,
+    "status": "played"
+  },
+  {
+    "week": 6,
+    "home": "Vakvakiye SK",
+    "away": "Yalova FK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "rescheduled",
+    "note": "29 Nisan Çarşamba 00:00"
+  },
+  {
+    "week": 6,
+    "home": "Uzmanlar Espor",
+    "away": "Pocispor FC",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "played"
+  },
+
+  {
+    "week": 7,
+    "home": "Abrakadabra ESP",
+    "away": "Napoliten FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 7,
+    "home": "Semt-i Müdafa",
+    "away": "Kitkat FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 7,
+    "home": "Zagor FC",
+    "away": "Verder Veremem",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 7,
+    "home": "Gegi Esport",
+    "away": "Yalova FK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 7,
+    "home": "Rulen FC",
+    "away": "Pocispor FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 7,
+    "home": "Vakvakiye SK",
+    "away": "Uzmanlar Espor",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+
+  {
+    "week": 8,
+    "home": "Abrakadabra ESP",
+    "away": "Kitkat FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 8,
+    "home": "Napoliten FC",
+    "away": "Verder Veremem",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 8,
+    "home": "Semt-i Müdafa",
+    "away": "Yalova FK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 8,
+    "home": "Zagor FC",
+    "away": "Pocispor FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 8,
+    "home": "Gegi Esport",
+    "away": "Uzmanlar Espor",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 8,
+    "home": "Rulen FC",
+    "away": "Vakvakiye SK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+
+  {
+    "week": 9,
+    "home": "Abrakadabra ESP",
+    "away": "Verder Veremem",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 9,
+    "home": "Kitkat FC",
+    "away": "Yalova FK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 9,
+    "home": "Napoliten FC",
+    "away": "Pocispor FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 9,
+    "home": "Semt-i Müdafa",
+    "away": "Uzmanlar Espor",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 9,
+    "home": "Zagor FC",
+    "away": "Vakvakiye SK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 9,
+    "home": "Gegi Esport",
+    "away": "Rulen FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+
+  {
+    "week": 10,
+    "home": "Abrakadabra ESP",
+    "away": "Yalova FK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 10,
+    "home": "Verder Veremem",
+    "away": "Pocispor FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 10,
+    "home": "Kitkat FC",
+    "away": "Uzmanlar Espor",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 10,
+    "home": "Napoliten FC",
+    "away": "Vakvakiye SK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 10,
+    "home": "Semt-i Müdafa",
+    "away": "Rulen FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 10,
+    "home": "Zagor FC",
+    "away": "Gegi Esport",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+
+  {
+    "week": 11,
+    "home": "Abrakadabra ESP",
+    "away": "Pocispor FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 11,
+    "home": "Yalova FK",
+    "away": "Uzmanlar Espor",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 11,
+    "home": "Verder Veremem",
+    "away": "Vakvakiye SK",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 11,
+    "home": "Kitkat FC",
+    "away": "Rulen FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 11,
+    "home": "Napoliten FC",
+    "away": "Gegi Esport",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  },
+  {
+    "week": 11,
+    "home": "Semt-i Müdafa",
+    "away": "Zagor FC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "scheduled"
+  }
+]

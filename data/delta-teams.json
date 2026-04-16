@@ -1,0 +1,14 @@
+[
+  { "name": "Shepherds", "captain": "Belirlenecek", "played": 6, "points": 18, "logoText": "SH" },
+  { "name": "Last Mohicans", "captain": "Belirlenecek", "played": 6, "points": 13, "logoText": "LM" },
+  { "name": "96 BOYS", "captain": "Belirlenecek", "played": 6, "points": 12, "logoText": "96" },
+  { "name": "AKIN FC", "captain": "Belirlenecek", "played": 6, "points": 12, "logoText": "AF" },
+  { "name": "CatBird Esports", "captain": "Belirlenecek", "played": 6, "points": 12, "logoText": "CB" },
+  { "name": "Füzeci Crew", "captain": "Belirlenecek", "played": 6, "points": 9, "logoText": "FC" },
+  { "name": "Hababam FC", "captain": "Belirlenecek", "played": 6, "points": 9, "logoText": "HF" },
+  { "name": "Cabak Guys", "captain": "Belirlenecek", "played": 6, "points": 9, "logoText": "CG" },
+  { "name": "Los Blancos", "captain": "Belirlenecek", "played": 6, "points": 7, "logoText": "LB" },
+  { "name": "Maniboys FC", "captain": "Belirlenecek", "played": 6, "points": 3, "logoText": "MF" },
+  { "name": "Kardashians FC", "captain": "Belirlenecek", "played": 6, "points": 3, "logoText": "KF" },
+  { "name": "Babalarspor", "captain": "Belirlenecek", "played": 6, "points": 0, "logoText": "BS" }
+]
